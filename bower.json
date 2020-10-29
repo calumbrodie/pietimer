@@ -1,0 +1,12 @@
+{
+  "name": "pietimer",
+  "repo": "calumbrodie/pietimer",
+  "description": "Simple pie chart timer countdowns",
+  "version": "0.1",
+  "main": [
+        "jquery.pietimer.min.js"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "pietimer",
+  "repo": "calumbrodie/pietimer",
+  "description": "Simple pie chart timer countdowns",
+  "main": [
+    "jquery.pietimer.min.js"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "homepage": "https://github.com/calumbrodie/pietimer",
+  "_release": "e7a69ad74b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e7a69ad74ba5dab3f4439b825f81f2a7f0b6cf86"
+  },
+  "_source": "git://github.com/calumbrodie/pietimer.git",
+  "_target": "*",
+  "_originalSource": "calumbrodie/pietimer"
+}
